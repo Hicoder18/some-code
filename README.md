@@ -1,2 +1,2 @@
-# some-code
-Some of the code I've collected and wrote.
+# 介绍
+从网络上收集的一些好用的代码片段，以及自己写的。

@@ -10,6 +10,7 @@
 		@flush();
 		@ob_flush();
 		exit();
+		// header("Location: $imgurl");    //输出302跳转
 	} else {
 		exit('error');
 	}
